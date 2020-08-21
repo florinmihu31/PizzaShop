@@ -41,22 +41,22 @@
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
             this.label1.Font = new System.Drawing.Font("Segoe Script", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(242, 46);
+            this.label1.Location = new System.Drawing.Point(330, 56);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(304, 44);
+            this.label1.Size = new System.Drawing.Size(186, 44);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Florin\'s Pizza Shop";
+            this.label1.Text = "Pizza Shop";
             // 
             // label2
             // 
             this.label2.AutoSize = true;
             this.label2.BackColor = System.Drawing.Color.Transparent;
             this.label2.Font = new System.Drawing.Font("Cambria Math", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(99, 100);
+            this.label2.Location = new System.Drawing.Point(134, 100);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(118, 89);
+            this.label2.Size = new System.Drawing.Size(83, 89);
             this.label2.TabIndex = 1;
-            this.label2.Text = "User Name:";
+            this.label2.Text = "Nume:";
             // 
             // textBox1
             // 
@@ -70,11 +70,11 @@
             this.label3.AutoSize = true;
             this.label3.BackColor = System.Drawing.Color.Transparent;
             this.label3.Font = new System.Drawing.Font("Cambria Math", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(442, 100);
+            this.label3.Location = new System.Drawing.Point(486, 100);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(121, 89);
+            this.label3.Size = new System.Drawing.Size(77, 89);
             this.label3.TabIndex = 3;
-            this.label3.Text = "Pizza Name:";
+            this.label3.Text = "Pizza:";
             // 
             // textBox2
             // 
@@ -137,7 +137,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "OrderForm";
-            this.Text = "Florin\'s Pizza Shop";
+            this.Text = "Pizza Shop";
             ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
