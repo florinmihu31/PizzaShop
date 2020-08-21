@@ -10,6 +10,7 @@
 ### Languages
 
 * The project was built using C# and .NET framework.
+* The GUI was made with Windows Forms.
 
 ### Screenshots
 
